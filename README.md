@@ -58,11 +58,12 @@ class AboutMe:
         "C++",
         "HTML",
         "CSS",
-        "JSON"
+        "JSON",
+        "GdSsript"
     ]
 
     technologies = [
-        "OOP",
+        "OOP, and ABC Modiol",
         "Git",
         "GitHub",
         "Godot"
@@ -100,7 +101,21 @@ class AboutMe:
 - 🤖 AI is one of my favorite fields.
 - 🚀 Always learning something new.
 
+
 ---
+<br>
+
+
+<h3>
+    🧠🤓language, i can speak:
+<h3>
+
+- Arabic (My Defult language)
+- Frinsh (My favorite language)
+- english
+
+---
+
 
 <div align="center">
 
