@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
 
-<h1>Hi 👋 I'm Mohamed (MedSouvi)<br>مرحبا انا اسمي محمد (محمد ول الصوفي)</h1>
+<h1>Hi 👋 I'm Mohamed (MedSouvi)<br>مرحبا انا اسمي محمد (ول الصوفي)</h1>
 
 <h3>🐍 Python Developer | 🤖 AI Enthusiast | 🎮 Godot Learner</h3>
 
