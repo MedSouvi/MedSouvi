@@ -106,13 +106,12 @@ class AboutMe:
 <br>
 
 
-<h3>
-    🧠🤓language, i can speak:
-<h3>
+## 🧠 🤓 language, i can speak:
 
-- Arabic (My Defult language)
-- Frinsh (My favorite language)
-- english
+
+- Arabic ( My main language )
+- Frinsh ( My favorite language )
+- english( midiem )
 
 ---
 
