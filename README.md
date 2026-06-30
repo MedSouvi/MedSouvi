@@ -59,7 +59,8 @@ class AboutMe:
         "HTML",
         "CSS",
         "JSON",
-        "GdSsript"
+        "GdSsript",
+        "C#"
     ]
 
     technologies = [
