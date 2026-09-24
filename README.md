@@ -44,7 +44,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ```python
@@ -58,23 +57,21 @@ class AboutMe:
         "C++",
         "HTML",
         "CSS",
-        "JSON",
-        "GdSsript",
-        "C#"
+        "Java Sript",
+        "JSON"
     ]
 
     technologies = [
         "OOP, and ABC Modiol",
         "Git",
         "GitHub",
-        "Godot"
     ]
 
     interests = [
         "Artificial Intelligence",
-        "Game Development",
+        "Web Development",
         "Automation",
-        "Open Source"
+        "Open Source Projects"
     ]
 
     current_focus = "Building projects and improving my programming skills."
@@ -106,8 +103,7 @@ class AboutMe:
 ---
 <br>
 
-
-## 🧠 🤓 language, i can speak:
+## 🧠 🤓 languages, who can speak:
 
 
 - Arabic ( My main language )
@@ -115,6 +111,10 @@ class AboutMe:
 - english( midiem )
 
 ---
+
+
+
+
 
 
 <div align="center">
