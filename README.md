@@ -76,3 +76,12 @@ class AboutMe:
     ]
 
     current_focus = "Building projects and improving my programming and design skills."
+    
+    
+    ## 🌐 Social Media
+
+- 📧 Email: `med.sb.souvi@gmail.com`
+- 🎵 TikTok: [@mo7amed4020](https://www.tiktok.com/@mo7amed4020)
+- 📸 Instagram: [@mohamed_souvi_6746](https://www.instagram.com/mohamed_souvi_6746)
+- 💬 WhatsApp: [Contact me on WhatsApp](https://wa.me/22244029003)
+- 📘 Facebook: [Mohamed Souvi](https://www.facebook.com/)
