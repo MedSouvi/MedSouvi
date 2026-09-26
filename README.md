@@ -3,17 +3,17 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
 
-<h1>Hi 👋 I'm Mohamed (MedSouvi)<br>مرحبا انا اسمي محمد (ول الصوفي)</h1>
+<h1>Hi 👋 I'm Mohamed (MedSouvi)<br>مرحبا أنا اسمي محمد (ول الصوفي)</h1>
 
-<h3>🐍 Python Developer | 🤖 AI Enthusiast | 🎮 Godot Learner</h3>
+<h3>🐍 Python Developer | 🤖 AI Enthusiast | 🎨 Blender Designer</h3>
 
 <details>
 <summary><strong>💻 Currently Working On</strong></summary>
 
 - 🚀 Learning Advanced Python
 - 🤖 Exploring Artificial Intelligence
-- 🎮 Building Games with Godot
-- 📚 Improving C++
+- 🎨 Learning and creating with Blender
+- 💻 Improving my programming skills
 
 </details>
 
@@ -25,21 +25,19 @@
 
 ---
 
-## 🚀 Tools & Technologies
-
-![](https://img.shields.io/badge/-🚀%20Languages-orange)
-![](https://img.shields.io/badge/-%3A-orange)
+## 🚀 Languages & Technologies
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 
 ---
 
-![](https://img.shields.io/badge/-🛠️%20Tools-orange)
-![](https://img.shields.io/badge/-%3A-orange)
+## 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
@@ -57,70 +55,24 @@ class AboutMe:
         "C++",
         "HTML",
         "CSS",
-        "Java Sript",
+        "JavaScript",
         "JSON"
     ]
 
     technologies = [
-        "OOP, and ABC Modiol",
+        "OOP",
+        "ABC Module",
         "Git",
         "GitHub",
+        "Blender"
     ]
 
     interests = [
         "Artificial Intelligence",
         "Web Development",
         "Automation",
+        "3D Design",
         "Open Source Projects"
     ]
 
-    current_focus = "Building projects and improving my programming skills."
-```
-
-
-
-## 🌱 Currently Learning
-
-- Advanced Python
-- Artificial Intelligence
-- C++
-- Godot Game Development
-
-<img width="70%" src="https://streak-stats.demolab.com?user=MedSouvi&theme=tokyonight"/>
-
-</div>
-
----
-
-## ⚡ Fun Facts
-
-- 🧠 I enjoy solving programming problems.
-- 🎮 I like creating games with Godot.
-- 🤖 AI is one of my favorite fields.
-- 🚀 Always learning something new.
-
-
----
-<br>
-
-## 🧠 🤓 languages, who can speak:
-
-
-- Arabic ( My main language )
-- Frinsh ( My favorite language )
-- english( midiem )
-
----
-
-
-
-
-
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="180"/>
-
-</div>
+    current_focus = "Building projects and improving my programming and design skills."
