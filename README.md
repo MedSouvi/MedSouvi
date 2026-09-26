@@ -5,14 +5,14 @@
 
 <h1>Hi 👋 I'm Mohamed (MedSouvi)<br>مرحبا انا اسمي محمد (ول الصوفي)</h1>
 
-<h3>🐍 Python Developer | 🤖 AI Enthusiast | 🎨 3D Designer</h3>
+<h3>🐍 Python Developer | 🤖 AI Enthusiast | 🎮 Godot Learner</h3>
 
 <details>
 <summary><strong>💻 Currently Working On</strong></summary>
 
 - 🚀 Learning Advanced Python
 - 🤖 Exploring Artificial Intelligence
-- 🎨 3D Design with Blender
+- 🎮 Building Games with Godot
 - 📚 Improving C++
 
 </details>
@@ -45,7 +45,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 ```python
 class AboutMe:
@@ -66,126 +65,54 @@ class AboutMe:
         "OOP, and ABC Modiol",
         "Git",
         "GitHub",
-        "Blender"
     ]
 
     interests = [
         "Artificial Intelligence",
         "Web Development",
         "Automation",
-        "Open Source Projects",
-        "3D Design"
+        "Open Source Projects"
     ]
 
     current_focus = "Building projects and improving my programming skills."
+```
 
-أعتذر عن هذا الخطأ! لقد فهمت قصدك الآن. سأضع كل شيء (من البداية حتى النهاية، بما في ذلك الإحصائيات، الحقائق، اللغات، والتواصل) داخل مربع كود (Code Block) واحد فقط لتتمكن من نسخه بالكامل بنقرة واحدة ووضعه في ملف README.md الخاص بك.
-إليك الكود كاملاً ومجمعاً:
-<div align="center" width="50">
+## 🌱 Currently Learning
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
+- Advanced Python
+- Artificial Intelligence
+- C++
+- Godot Game Development
 
-<h1>Hi 👋 I'm Mohamed (MedSouvi)<br>مرحبا انا اسمي محمد (ول الصوفي)</h1>
-
-<h3>🐍 Python Developer | 🤖 AI Enthusiast | 🎨 3D Designer</h3>
-
-<details>
-<summary><strong>💻 Currently Working On</strong></summary>
-
-- 🚀 Learning Advanced Python
-- 🤖 Exploring Artificial Intelligence
-- 🎨 3D Design with Blender
-- 📚 Improving C++
-
-</details>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=MedSouvi&style=flat&color=orange&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 🚀 Tools & Technologies
-
-![](https://img.shields.io/badge/-🚀%20Languages-orange)
-![](https://img.shields.io/badge/-%3A-orange)
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-
----
-
-![](https://img.shields.io/badge/-🛠️%20Tools-orange)
-![](https://img.shields.io/badge/-%3A-orange)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-
-```python
-class AboutMe:
-
-    name = "Mohamed"
-    username = "MedSouvi"
-
-    languages = [
-        "Python",
-        "C++",
-        "HTML",
-        "CSS",
-        "Java Sript",
-        "JSON"
-    ]
-
-    technologies = [
-        "OOP, and ABC Modiol",
-        "Git",
-        "GitHub",
-        "Blender"
-    ]
-
-    interests = [
-        "Artificial Intelligence",
-        "Web Development",
-        "Automation",
-        "Open Source Projects",
-        "3D Design"
-    ]
-
-    current_focus = "Building projects and improving my programming skills."
-´´´
-🌱 Currently Learning
- * Advanced Python
- * Artificial Intelligence
- * C++
- * Blender & 3D Design
 <img width="70%" src="https://streak-stats.demolab.com?user=MedSouvi&theme=tokyonight"/>
-</div>
-⚡ Fun Facts
- * 🧠 I enjoy solving programming problems.
- * 🎨 I like creating 3D models with Blender.
- * 🤖 AI is one of my favorite fields.
- * 🚀 Always learning something new.
-🧠 🤓 languages, who can speak:
- * Arabic ( My main language )
- * Frinsh ( My favorite language )
- * english( midiem )
-📫 تواصل معي
- * 📧 Email: med.sb.souvi@gmail.com
- * 🎵 TikTok: @mo7amed4020
- * 📸 Instagram: @mohamed_souvi_6746
- * 💬 WhatsApp: Contact me on WhatsApp
- * 📘 Facebook: Mohamed Souvi
-<div align="center">
-⭐ Thanks for visiting my profile!
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="180"/>
+
 </div>
 
+---
+
+## ⚡ Fun Facts
+
+- 🧠 I enjoy solving programming problems.
+- 🎮 I like creating games with Godot.
+- 🤖 AI is one of my favorite fields.
+- 🚀 Always learning something new.
+
+---
+<br>
+
+## 🧠 🤓 languages, who can speak:
+
+- Arabic ( My main language )
+- Frinsh ( My favorite language )
+- english( midiem )
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="180"/>
+
+</div>
+أضف بلندر و التصميم ثلاثي الأبعاد و ازل جودوات و أضف إيميلاتي تحت صفحة تواصل معنا
