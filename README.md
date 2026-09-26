@@ -12,7 +12,7 @@
 
 - 🚀 Learning Advanced Python
 - 🤖 Exploring Artificial Intelligence
-- 🎨 Creating 3D Designs with Blender
+- 🎨 Learning 3D Design with Blender
 - 📚 Improving C++
 
 </details>
@@ -58,12 +58,12 @@ class AboutMe:
         "C++",
         "HTML",
         "CSS",
-        "JavaScript",
+        "Java Sript",
         "JSON"
     ]
 
     technologies = [
-        "OOP, and ABC Module",
+        "OOP, and ABC Modiol",
         "Git",
         "GitHub",
         "Blender"
@@ -71,8 +71,8 @@ class AboutMe:
 
     interests = [
         "Artificial Intelligence",
-        "3D Design",
         "Web Development",
+        "3D Design",
         "Automation",
         "Open Source Projects"
     ]
