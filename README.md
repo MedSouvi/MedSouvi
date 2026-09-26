@@ -161,7 +161,7 @@ class AboutMe:
     ]
 
     current_focus = "Building projects and improving my programming skills."
-
+´´´
 🌱 Currently Learning
  * Advanced Python
  * Artificial Intelligence
