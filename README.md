@@ -3,16 +3,15 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
 
-<h1>Hi 👋 I'm Mohamed (MedSouvi)<br>مرحبا انا اسمي محمد (ول الصوفي)</h1>
+<h1>Hi 👋 I'm Mohamed (MedSouvi)</h1>
 
-<h3>🐍 Python Developer | 🤖 AI Enthusiast | 🎮 Godot Learner</h3>
+<h3>🐍 Python Developer | 🤖 AI Enthusiast | 🎨 Blender learner</h3>
 
 <details>
 <summary><strong>💻 Currently Working On</strong></summary>
 
 - 🚀 Learning Advanced Python
 - 🤖 Exploring Artificial Intelligence
-- 🎮 Building Games with Godot
 - 📚 Improving C++
 
 </details>
@@ -57,21 +56,22 @@ class AboutMe:
         "C++",
         "HTML",
         "CSS",
-        "Java Sript",
+        "JavaScript",
         "JSON"
     ]
 
     technologies = [
-        "OOP, and ABC Modiol",
+        "00P, and ABC Module",
         "Git",
         "GitHub",
+        "cloud"
     ]
 
     interests = [
         "Artificial Intelligence",
         "Web Development",
         "Automation",
-        "Open Source Projects"
+        "Open Source Projects",
     ]
 
     current_focus = "Building projects and improving my programming skills."
@@ -81,8 +81,7 @@ class AboutMe:
 
 - Advanced Python
 - Artificial Intelligence
-- C++
-- Godot Game Development
+- Blender
 
 <img width="70%" src="https://streak-stats.demolab.com?user=MedSouvi&theme=tokyonight"/>
 
@@ -93,14 +92,13 @@ class AboutMe:
 ## ⚡ Fun Facts
 
 - 🧠 I enjoy solving programming problems.
-- 🎮 I like creating games with Godot.
 - 🤖 AI is one of my favorite fields.
 - 🚀 Always learning something new.
 
 ---
 <br>
 
-## 🧠 🤓 languages, who can speak:
+## 🗣️🙋 languages, who can speak:
 
 - Arabic ( My main language )
 - Frinsh ( My favorite language )
